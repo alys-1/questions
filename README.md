@@ -1,5 +1,4 @@
 # questions
 questions from leetcode, codechef and similar others
-<br><p>
+<br>
 author - sakshi
-</p>
